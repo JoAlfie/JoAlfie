@@ -46,6 +46,21 @@
 	}
 }
 
+@media (max-width: 400px) {
+	.project {
+		&__link {
+			flex-direction: column;
+		}
+		&__image {
+			margin-right: 0;
+			margin-bottom: @text-margin-bottom;
+		}
+		&__linktitle {
+			text-align: center;
+		}
+	}
+}
+
 .projectlist__hoverfocus {
 	z-index: 1;
 	box-shadow: 0 8px 50px rgba(#000, 0.2);
