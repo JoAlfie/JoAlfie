@@ -11,7 +11,7 @@ metaDescription: "A React Native app to help breast cancer patients regain movem
 
 Breast cancer professionals in South Wales had noted large delays in patients getting radiotherapy treatment, due to restricted movement after surgery. They wanted to improve the post-operative experience for patients, and standardise the information and advice given to them.
 
-The app provides a step-by-step physio/exercise programme for patients (in both English and Welsh), with video and text explainations, useful information and the option for push-notification reminders to do that day's exercises. Users are also rewarded with 'medals' as they progress through the app to encourage continued usage and make the process more enjoyable.
+The app provides a step-by-step physio/exercise programme for patients (in both English and Welsh), with video and text explanations, useful information and the option for push-notification reminders to do that day's exercises. Users are also rewarded with 'medals' as they progress through the app to encourage continued usage and make the process more enjoyable.
 
 This was a very rewarding project to work on, being involved with both clinical staff and patients, and so far we have had positive feedback on its impact.
 

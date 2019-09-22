@@ -60,12 +60,12 @@ export default ({ data }) => (
 				</li>
 				<li>
 					Taught two longsword workshops at the May Melee 2019, and have been
-					inivited to teach at By The Sword 2020 (the world's biggest HEMA event
+					invited to teach at By The Sword 2020 (the world's biggest HEMA event
 					for women and gender minorities)
 				</li>
 				<li>RYA Sailing level 2</li>
 				<li>
-					Guiness World Record for the World's Largest Scavenger Hunt (2013)
+					Guinness World Record for the World's Largest Scavenger Hunt (2013)
 				</li>
 			</ul>
 			<h2>Like what you've read?</h2>

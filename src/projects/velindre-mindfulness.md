@@ -11,7 +11,7 @@ metaDescription: "A React Native app to serve a bilingual mindfulness relaxation
 
 Velindre Cancer Centre wanted to offer a mindfulness and relaxation programme to help cancer patients, and also offer it to the public for anyone to use. The app provides audio playlists in both English and Welsh, as well as links to other useful resources.
 
-Using React Native allowed me to use a language I was familiar with (javascript) to build an app which works on both Apple and Android devices. Once downloaded onto a user's device the app works completely offline, allowing them to follow the programme however, whenever and whereever they choose.
+Using React Native allowed me to use a language I was familiar with (javascript) to build an app which works on both Apple and Android devices. Once downloaded onto a user's device the app works completely offline, allowing them to follow the programme however, whenever and wherever they choose.
 
 The app has had approximately 1000 downloads across both platforms.
 
