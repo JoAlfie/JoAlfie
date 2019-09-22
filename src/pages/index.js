@@ -1,5 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
+import Helmet from "react-helmet"
 import Hero from "../components/home/hero"
 
 const heroText = (
@@ -10,6 +11,10 @@ const heroText = (
 
 export default ({ data }) => (
 	<>
+		<Helmet>
+			<title>Jo Alfie Wimborne</title>
+			<meta name="description" content={data.site.siteMetadata.description} />
+		</Helmet>
 		<Hero data={data} heroTitle="Hi, I'm Jo Alfie" heroText={heroText} />
 	</>
 )
@@ -23,6 +28,12 @@ export const query = graphql`
 				fluid(maxWidth: 500) {
 					...GatsbyImageSharpFluid_noBase64
 				}
+			}
+		}
+		site {
+			siteMetadata {
+				title
+				description
 			}
 		}
 	}
