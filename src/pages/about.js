@@ -53,6 +53,7 @@ export default ({ data }) => (
 				<li>React Native</li>
 				<li>React</li>
 				<li>Basics of Node.js</li>
+				<li>Basic PHP</li>
 				<li>Adobe suite, including Illustrator, Photoshop & InDesign</li>
 				<li>Googling</li>
 			</ul>
