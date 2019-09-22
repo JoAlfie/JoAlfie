@@ -1,8 +1,9 @@
 import React from "react"
+import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import Link from "../components/link"
 
-export default () => (
+export default ({ data }) => (
 	<Layout
 		metaTitle="About | Jo Alfie Wimborne"
 		metaDescription="About Jo Alfie Wimborne: I am a front-end turned full-stack developer based in Cardiff. I love learning new things, building cool stuff, and playing with swords."
@@ -67,10 +68,22 @@ export default () => (
 					Guiness World Record for the World's Largest Scavenger Hunt (2013)
 				</li>
 			</ul>
+			<h2>Like what you've read?</h2>
 			<p>
-				Email me:{" "}
 				<Link to={"mailto:jowimborne@gmail.com"}>jowimborne@gmail.com</Link>
+			</p>
+			<p>
+				{console.log(data)}
+				<a href={data.file.publicURL}>Get my CV</a>
 			</p>
 		</section>
 	</Layout>
 )
+
+export const query = graphql`
+	query {
+		file(relativePath: { eq: "JoAlfieWimbornecv2019.pdf" }) {
+			publicURL
+		}
+	}
+`
