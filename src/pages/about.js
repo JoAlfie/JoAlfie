@@ -36,6 +36,37 @@ export default () => (
 				Arts at Edel Fencing Academy. I also compete from time to time, and have
 				won medals in Longsword and Sword & Buckler.
 			</p>
+			<h2>Notable Achievements / Awards</h2>
+			<ul>
+				<li>
+					Got to grips with React Native in a very short space of time and have
+					since deployed three apps (BVD Biosecurity Checklist, BAPS App Wales,
+					Velindre Mindfulness App) and am in progress with a fourth.
+				</li>
+				<li>
+					<Link to="https://www.ycn.org/news/2049-drumroll-commendations">
+						YCN Awards 2016/7 Commendation
+					</Link>
+				</li>
+				<li>
+					Was instrumental in the growth and ultimate relaunch of Edel Fencing
+					Academy
+				</li>
+				<li>
+					Four medals from HEMA tournaments: silver in Women's Sword & Buckler
+					(Albion Cup 2019), bronze in Women's Longsword (Wessex League Exeter
+					2019, Exeter Longsword Open 2019, Wessex League London 2017)
+				</li>
+				<li>
+					Taught two longsword workshops at the May Melee 2019, and have been
+					inivited to teach at By The Sword 2020 (the world's biggest HEMA event
+					for women and gender minorities)
+				</li>
+				<li>RYA Sailing level 2</li>
+				<li>
+					Guiness World Record for the World's Largest Scavenger Hunt (2013)
+				</li>
+			</ul>
 			<p>
 				Email me:{" "}
 				<Link to={"mailto:jowimborne@gmail.com"}>jowimborne@gmail.com</Link>
