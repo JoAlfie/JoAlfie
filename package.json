@@ -7,7 +7,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "deploy": "gatsby build && gh-pages -d public -b master",
+    "deploy": "git remote set-url origin https://github.com/JoAlfie/joalfie.github.io.git && gatsby build && gh-pages -d public -b master && git remote set-url origin https://github.com/JoAlfie/JoAlfie.git",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
