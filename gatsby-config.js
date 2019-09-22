@@ -24,6 +24,18 @@ module.exports = {
 			},
 		},
 		{
+			resolve: `gatsby-plugin-manifest`,
+			options: {
+				name: `Jo Alfie Wimborne`,
+				short_name: `JoAlfie`,
+				start_url: `/`,
+				background_color: `#f7f0eb`,
+				theme_color: `#408e8d`,
+				display: `standalone`,
+				icon: `src/images/me-01.png`,
+			},
+		},
+		{
 			resolve: `gatsby-source-filesystem`,
 			options: {
 				name: `images`,

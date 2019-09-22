@@ -6,12 +6,12 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
-	"develop": "gatsby develop",
-	"deploy": "gatsby build && gh-pages -d public -b master",
+    "develop": "gatsby develop",
+    "deploy": "gatsby build && gh-pages -d public -b master",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
-	"test": "jest"
+    "test": "jest"
   },
   "dependencies": {
     "gatsby": "^2.15.16",
@@ -19,6 +19,7 @@
     "gatsby-plugin-catch-links": "^2.1.10",
     "gatsby-plugin-html-attributes": "^1.0.5",
     "gatsby-plugin-less": "^3.0.6",
+    "gatsby-plugin-manifest": "^2.2.18",
     "gatsby-plugin-react-helmet": "^3.1.7",
     "gatsby-plugin-sharp": "^2.2.22",
     "gatsby-plugin-use-dark-mode": "^1.1.2",
