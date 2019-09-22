@@ -21,7 +21,9 @@ export default ({ data }) => (
 				expanded my skillset from HTML/CSS/JQuery to now include CSS
 				Preprocessing (Less/Sass), workflow tools (Gulp), version control (Git),
 				vanilla javascript (inlcuding ES6), modern tools and frameworks such as
-				React and Node.js, and mobile app development using React Native.
+				React and Node.js, and mobile app development using React Native. I am
+				also proficent in using much of the Adobe suite, including Illustrator,
+				Photoshop and InDesign.
 			</p>
 			<p>
 				Though I have studied and worked in various fields over the past five
