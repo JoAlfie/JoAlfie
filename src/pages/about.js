@@ -39,12 +39,29 @@ export default ({ data }) => (
 				Arts at Edel Fencing Academy. I also compete from time to time, and have
 				won medals in Longsword and Sword & Buckler.
 			</p>
+			<h2>Skills</h2>
+			<ul>
+				<li>HTML</li>
+				<li>CSS (including Less/Sass)</li>
+				<li>Javascript (Vanilla/ES6+ and JQuery)</li>
+				<li>Responsive websites</li>
+				<li>Web accessibility</li>
+				<li>Git</li>
+				<li>Gulp</li>
+				<li>Templating: XLST, Pug</li>
+				<li>CMSs: Symphony CMS, Prismic.io, Wordpress</li>
+				<li>React Native</li>
+				<li>React</li>
+				<li>Basics of Node.js</li>
+				<li>Adobe suite, including Illustrator, Photoshop & InDesign</li>
+				<li>Googling</li>
+			</ul>
 			<h2>Notable Achievements / Awards</h2>
 			<ul>
 				<li>
 					Got to grips with React Native in a very short space of time and have
-					since deployed three apps (BVD Biosecurity Checklist, BAPS App Wales,
-					Velindre Mindfulness App) and am in progress with a fourth.
+					since deployed three mobile apps (BVD Biosecurity Checklist, BAPS App
+					Wales, Velindre Mindfulness App) and am in progress with a fourth.
 				</li>
 				<li>
 					<Link to="https://www.ycn.org/news/2049-drumroll-commendations">
@@ -72,10 +89,10 @@ export default ({ data }) => (
 			</ul>
 			<h2>Like what you've read?</h2>
 			<p>
+				Email me:{" "}
 				<Link to={"mailto:jowimborne@gmail.com"}>jowimborne@gmail.com</Link>
 			</p>
 			<p>
-				{console.log(data)}
 				<a href={data.file.publicURL}>Get my CV</a>
 			</p>
 		</section>
