@@ -52,10 +52,10 @@ export default ({ data }) => (
 				<li>CMSs: Symphony CMS, Prismic.io, Wordpress</li>
 				<li>React Native</li>
 				<li>React</li>
-				<li>Basics of Node.js</li>
+				<li>Basics of Node.js and Express</li>
 				<li>Basic PHP</li>
 				<li>Adobe suite, including Illustrator, Photoshop & InDesign</li>
-				<li>Googling</li>
+				<li>Research & Googling</li>
 			</ul>
 			<h2>Notable Achievements / Awards</h2>
 			<ul>
