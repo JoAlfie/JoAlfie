@@ -5,7 +5,7 @@ listImage: ./baps-01.png
 listImageAlt: "Screenshots of the BAPS app"
 featuredImage: ./baps-01.png
 featuredImageAlt: "Screenshots of the BAPS app"
-tech: ["React Native"]
+tech: ["2018/19", "React Native"]
 metaDescription: "A React Native app to help breast cancer patients regain movement after sugery"
 ---
 
@@ -17,6 +17,7 @@ This was a very rewarding project to work on, being involved with both clinical 
 
 The project was nominated for Best New Mobile App in the Best Mobile App Awards in January 2019.
 
-- [Press release](http://www.thepracticeofhealth.wales.nhs.uk/news/50308)
+- [Press Release](https://www.facebook.com/velindrecc/posts/were-delighted-to-announce-the-new-baps-app-launches-today-and-is-available-to-d/2143395432347222/)
+- [NHS Wales](https://cavuhb.nhs.wales/our-services/breast-centre/baps-app/)
 - [On the Google Play Store](https://play.google.com/store/apps/details?id=com.velindre.baps&hl=en_GB)
 - [On the Apple App Store](https://apps.apple.com/gb/app/the-baps-app-wales/id1450394179)

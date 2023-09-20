@@ -5,7 +5,7 @@ listImage: ./orchardlive-snip.png
 listImageAlt: "Screenshot of the Orchard Live website"
 featuredImage: ./orchardlive-snip.png
 featuredImageAlt: "Screenshot of the Orchard Live website"
-tech: ["Symphony", "XSLT", "CSS/Less", "Javascript"]
+tech: ["2018", "Symphony", "XSLT", "CSS/Less", "Javascript"]
 metaDescription: "A Symphony CMS based site to match the new Orchard Live brand"
 ---
 
@@ -13,7 +13,7 @@ With the rebrand of Orchard Entertainment as Orchard Live came an opportunity to
 
 As with all of the internal Orchard sites we used Symphony CMS as a basis for the back end and templating.
 The front end presented interesting challenges in the form of the colourful image-based grids, and expanding blocks providing extra details about upcoming gigs.
-This project instigated the creation of my [CSS Framework](/projects/css-framework) in order to have effective reusable classes to create a flexbox-based grid
+This project instigated the creation of a specific comapny CSS Framework in order to have effective reusable classes to create a flexbox-based grid
 which looked good no matter how many elements there were. I used a combination of XSLT templating and javascript for the toggleable panels for each listed gig,
 manipulating the page query string to create shareable links where the specific gig panel would be open and on screen on page load.
 

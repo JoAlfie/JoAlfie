@@ -5,7 +5,7 @@ listImage: ./velindre-01.png
 listImageAlt: "Screenshots of the Velindre Mindfulness App"
 featuredImage: ./velindre-01.png
 featuredImageAlt: "Screenshots of the Velindre Mindfulness App"
-tech: ["React Native"]
+tech: ["2019", "React Native"]
 metaDescription: "A React Native app to serve a bilingual mindfulness relaxation programme"
 ---
 
@@ -15,6 +15,6 @@ Using React Native allowed me to use a language I was familiar with (javascript)
 
 The app has had approximately 1000 downloads across both platforms.
 
-- [Velindre Press Release](http://www.velindre-tr.wales.nhs.uk/news/50986)
+- [Velindre Press Release](https://velindre.nhs.wales/news/archived-news/the-velindre-mindfulness-app-has-now-officially-launched/)
 - [On the Google Play Store](https://play.google.com/store/apps/details?id=com.velindrecc.mindfulness&hl=en_GB)
 - [On the Apple App Store](https://apps.apple.com/gb/app/velindre-mindfulness-app/id1450624693)

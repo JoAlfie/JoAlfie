@@ -5,7 +5,7 @@ import Hero from "../components/home/hero"
 
 const heroText = (
 	<>
-		<p>developer. creative. swordswoman. sailor.</p>
+		<p>developer. creative. swordsperson. sailor.</p>
 	</>
 )
 

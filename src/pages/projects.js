@@ -31,7 +31,6 @@ const Project = ({ project }) => {
 }
 
 export default ({ data }) => {
-	console.log(data)
 	return (
 		<Layout metaTitle="Projects | Jo Alfie Wimborne" title="Projects">
 			<p>A selection of projects I've worked on:</p>

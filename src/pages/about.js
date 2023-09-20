@@ -46,7 +46,7 @@ export default ({ data }) => (
 				<li>React</li>
 				<li>Vue</li>
 				<li>Typescript</li>
-				<li>Responsive websites</li>
+				<li>Responsive design</li>
 				<li>Web accessibility</li>
 				<li>Git</li>
 				<li>Webpack, Gulp</li>
