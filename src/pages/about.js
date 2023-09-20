@@ -6,86 +6,125 @@ import Link from "../components/link"
 export default ({ data }) => (
 	<Layout
 		metaTitle="About | Jo Alfie Wimborne"
-		metaDescription="About Jo Alfie Wimborne: I am a front-end turned full-stack developer based in Cardiff. I love learning new things, building cool stuff, and playing with swords."
+		metaDescription="About Jo Alfie Wimborne: I am a senior front-end developer based in Cardiff. I love learning new things, building cool stuff, and playing with swords."
 		title="About Me"
 	>
 		<section className="about-section">
 			<h2>Hi, I'm Jo Alfie Wimborne</h2>
 			<p>
-				I am a front-end turned full-stack developer based in Cardiff. I love
-				learning new things, building cool stuff, and playing with swords.
+				I am a senior front-end developer based in Cardiff. I love learning new
+				things, building cool stuff, and playing with swords.
 			</p>
 			<p>
-				I studied Graphic Communication at the University of South Wales before
-				moving into web development. In the past two years I have massively
-				expanded my skillset from HTML/CSS/JQuery to now include CSS
-				Preprocessing (Less/Sass), workflow tools (Gulp), version control (Git),
-				vanilla javascript (inlcuding ES6), modern tools and frameworks such as
-				React and Node.js, and mobile app development using React Native. I am
-				also proficent in using much of the Adobe suite, including Illustrator,
-				Photoshop and InDesign.
+				I have worked on countless projects in agency settings, giving me a
+				broad experience of web technologies and clients. I have a proven track
+				record of leading front end approaches to projects including those with
+				complex interfaces, data needs and integrations. Having become the go-to
+				authority on web accessibility in my current role, I am passionate about
+				creating smooth experiences for all end users, particularly those
+				sometimes overlooked (e.g. keyboard-only and screen reader users).
 			</p>
 			<p>
-				Though I have studied and worked in various fields over the past five
-				years, my consistent goal throughout has been to put in as much as I can
-				to every experience and take every opportunity to learn. I am
-				enthusiastic and creative with a keen attention to detail, and I enjoy
-				sharing this with other people. I enjoy a challenge and a working
-				experience which has something different every day, particularly with a
-				strong team of colleagues which I can contribute to.
+				I am enthusiastic and creative with a keen attention to detail, and I
+				enjoy sharing this with other people. I currently lead monthly sessions
+				for my team to get together and share knowledge through an open forum
+				for people to share things they've learned recently, find interesting,
+				or give updates on how they've solved a particular problem in a project.
 			</p>
 			<p>
-				When I'm not at a computer I train and teach Historical European Martial
-				Arts at Edel Fencing Academy. I also compete from time to time, and have
-				won medals in Longsword and Sword & Buckler.
+				I'm an avid knitter, and when I'm not at a computer I usually train and
+				teach Historical European Martial Arts at Edel Fencing Academy.
+				(Although unfortunately I'm on hiatus from this due injury!) I also
+				compete from time to time, and have won medals in Longsword, Sword &
+				Buckler and Rapier & Dagger.
 			</p>
 			<h2>Skills</h2>
 			<ul>
 				<li>HTML</li>
 				<li>CSS (including Less/Sass)</li>
-				<li>Javascript (Vanilla/ES6+ and JQuery)</li>
+				<li>Javascript</li>
+				<li>React</li>
+				<li>Vue</li>
+				<li>Typescript</li>
 				<li>Responsive websites</li>
 				<li>Web accessibility</li>
 				<li>Git</li>
-				<li>Gulp</li>
-				<li>Templating: XLST, Pug</li>
-				<li>CMSs: Symphony CMS, Prismic.io, Wordpress</li>
-				<li>React Native</li>
-				<li>React</li>
-				<li>Basics of Node.js and Express</li>
-				<li>Basic PHP</li>
-				<li>Adobe suite, including Illustrator, Photoshop & InDesign</li>
-				<li>Research & Googling</li>
+				<li>Webpack, Gulp</li>
+				<li>CMSs: Sitecore, Contentful, Optimizely</li>
+				<li>React Native (in a previous role)</li>
+				<li>Basics of Node.js and Express (in a previous role)</li>
 			</ul>
 			<h2>Notable Achievements / Awards</h2>
+			<h3>2019 - 2023</h3>
+			<ul>
+				<li>
+					Developed accessibility guidelines to be used across the whole
+					development team with a view to ensuring all projects reach at least
+					AA accessibility standard. I have become the go-to person in the
+					development team for accessibility knowledge.
+				</li>
+				<li>
+					Successfully led a team to put forward a proposal for the purchase of
+					software licences for Polypane, a developer-focussed browser which
+					allowed the team to easily improve the accessibility and quality of
+					the work we are producing.
+				</li>
+				<li>
+					Leading monthly sessions for the front end team to share updates or
+					information to help the continued learning & development of the whole
+					team.
+				</li>
+				<li>
+					Consistently praised for attention to detail, high standard of work
+					and never turning down a challenge.
+				</li>
+			</ul>
+			<h3>2016 - 2019</h3>
 			<ul>
 				<li>
 					Got to grips with React Native in a very short space of time and have
 					since deployed three mobile apps (BVD Biosecurity Checklist, BAPS App
-					Wales, Velindre Mindfulness App) and am in progress with a fourth.
+					Wales, Velindre Mindfulness App).
 				</li>
-				<li>
-					<Link to="https://www.ycn.org/news/2049-drumroll-commendations">
-						YCN Awards 2016/7 Commendation
-					</Link>
-				</li>
+				<li>YCN Student Awards 2016/7 Commendation</li>
+			</ul>
+			<h3>Additional</h3>
+			<ul>
 				<li>
 					Was instrumental in the growth and ultimate relaunch of Edel Fencing
 					Academy
 				</li>
 				<li>
-					Four medals from HEMA tournaments: silver in Women's Sword & Buckler
-					(Albion Cup 2019), bronze in Women's Longsword (Wessex League Exeter
-					2019, Exeter Longsword Open 2019, Wessex League London 2017)
-				</li>
-				<li>
-					Taught two longsword workshops at the May Melee 2019, and have been
-					invited to teach at By The Sword 2020 (the world's biggest HEMA event
-					for women and gender minorities)
+					Taught a longsword mechanics class at By The Sword 2022 (the world's
+					biggest HEMA event for women and gender minorities) and taught two
+					longsword workshops at the May Melee 2019
 				</li>
 				<li>RYA Sailing level 2</li>
 				<li>
 					Guinness World Record for the World's Largest Scavenger Hunt (2013)
+				</li>
+				<li>
+					<h4>Tournament Achievements:</h4>
+					<h5>Womens' Sword & Buckler</h5>
+					<ul>
+						<li>Bronze, Wessex League Southampton 2022</li>
+						<li>Silver, Albion Cup 2019</li>
+					</ul>
+					<h5>Womens' Longsword</h5>
+					<ul>
+						<li>Bronze, Wessex League Exeter 2019</li>
+						<li>Bronze, Exeter Longsword Open 2019</li>
+						<li>Bronze, Wessex League London 2017</li>
+					</ul>
+					<h5>Womens' Raper & Dagger</h5>
+					<ul>
+						<li>Silver, Wessex League Cardiff 2022</li>
+					</ul>
+					<h5>Technical Fencer Award</h5>
+					<ul>
+						<li>Wessex League Overall 2019</li>
+						<li>Wessex League Cambridge 2019</li>
+					</ul>
 				</li>
 			</ul>
 			<h2>Like what you've read?</h2>
@@ -102,7 +141,7 @@ export default ({ data }) => (
 
 export const query = graphql`
 	query {
-		file(relativePath: { eq: "JoAlfieWimbornecv2019.pdf" }) {
+		file(relativePath: { eq: "JoAlfieWimbornecv2023.pdf" }) {
 			publicURL
 		}
 	}
